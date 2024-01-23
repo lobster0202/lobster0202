@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+<img src="https://img.shields.io/badge/java-#F37C20?style=flat&logo=javascript&logoColor=white"/>
+
+
+
+
 <!--
 **lobster0202/lobster0202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
