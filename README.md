@@ -1,7 +1,10 @@
-### Hi there 👋
+### 안녕하세요~ 👋
 
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=150&section=header&text=손%20석현의%20깃허브&desc=&fontSize=90)
 
-<img src="https://img.shields.io/badge/java-#F37C20?style=flat&logo=javascript&logoColor=white"/>
+![js](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 
